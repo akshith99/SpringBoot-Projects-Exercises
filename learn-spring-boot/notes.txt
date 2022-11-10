@@ -1,0 +1,15 @@
+
+dev
+~~~~
+logging.level.org.springframework=trace
+
+prod
+~~~~
+logging.level.org.springframework=trace
+
+trace
+debug
+info
+error
+
+Building jar: C:\UdemySpringboot\learn-spring-boot\target\learn-spring-boot-0.0.1-SNAPSHOT.jar
